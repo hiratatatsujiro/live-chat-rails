@@ -1,0 +1,15 @@
+current directory: /Users/hiratatoorujirou/projects/vue-rails-chat/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+/Users/hiratatoorujirou/.rbenv/versions/2.7.1/bin/ruby -I /Users/hiratatoorujirou/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20220702-64349-8xzfmu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hiratatoorujirou/projects/vue-rails-chat/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/hiratatoorujirou/projects/vue-rails-chat/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/hiratatoorujirou/projects/vue-rails-chat/live-chat-rails/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.12.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220702-64349-1cbz77m/bootsnap
